@@ -1,6 +1,6 @@
 # ProyectoUix
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0. The purpose of this project was to learn more about frontend web development and I took the Panini website as a reference.
 
 ## Development server
 
